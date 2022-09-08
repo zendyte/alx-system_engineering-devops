@@ -1,8 +1,8 @@
 
 # 0x03 Shell Variables expansions
 
-* [Create alias with name ls with value rm *](0x03-shell_variables_expansions/0-alias)
-* [Prints hello (current Linux user)](0x03-shell_variables_expansions/1-hello_you)
+* [Create alias with name ls with value rm *](0-alias)
+* [Prints hello (current Linux user)](1-hello_you)
 * [Add /action to the PATH](0x03-shell_variables_expansions/2-path)
 * [Count number of directories](0x03-shell_variables_expansions/3-paths)
 * [List environment variables](0x03-shell_variables_expansions/5-local_variables)
