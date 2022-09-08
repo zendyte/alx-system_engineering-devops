@@ -1,7 +1,5 @@
 
 # 0x03 Shell Variables expansions
-## Hello
-### World
 
 * [Create alias with name ls with value rm *](0-alias)
 * [Prints hello (current Linux user)](1-hello_you)
@@ -23,9 +21,9 @@
 
 ## All project - Tasks
 
-[x] Task 0 - Create an alias named ls with value "rm *"
+Task 0 - Create an alias named ls with value "rm *"
 
-[] Task 1 - Print hello (current user)
+Task 1 - Print hello (current user)
 
 Task 2 - Add /action to the path
 
